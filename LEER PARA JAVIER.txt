@@ -1,0 +1,5 @@
+Hola Javier,
+
+La carpeta de html me daba problemas, por eso el archivo index está fuera de su carpeta.
+
+¡Gracias por tu atención y un saludo!
